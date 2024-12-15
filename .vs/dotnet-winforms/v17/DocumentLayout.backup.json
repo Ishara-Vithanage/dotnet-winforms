@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "F:\\Github\\dotnet-winforms\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A683E368-76D7-4ECB-913B-FF04B08F3758}|dotnet-winforms\\dotnet-winforms.csproj|f:\\github\\dotnet-winforms\\dotnet-winforms\\popupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A683E368-76D7-4ECB-913B-FF04B08F3758}|dotnet-winforms\\dotnet-winforms.csproj|solutionrelative:dotnet-winforms\\popupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A683E368-76D7-4ECB-913B-FF04B08F3758}|dotnet-winforms\\dotnet-winforms.csproj|f:\\github\\dotnet-winforms\\dotnet-winforms\\emailform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A683E368-76D7-4ECB-913B-FF04B08F3758}|dotnet-winforms\\dotnet-winforms.csproj|solutionrelative:dotnet-winforms\\emailform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A683E368-76D7-4ECB-913B-FF04B08F3758}|dotnet-winforms\\dotnet-winforms.csproj|f:\\github\\dotnet-winforms\\dotnet-winforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A683E368-76D7-4ECB-913B-FF04B08F3758}|dotnet-winforms\\dotnet-winforms.csproj|solutionrelative:dotnet-winforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A683E368-76D7-4ECB-913B-FF04B08F3758}|dotnet-winforms\\dotnet-winforms.csproj|f:\\github\\dotnet-winforms\\dotnet-winforms\\emailform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A683E368-76D7-4ECB-913B-FF04B08F3758}|dotnet-winforms\\dotnet-winforms.csproj|solutionrelative:dotnet-winforms\\emailform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A683E368-76D7-4ECB-913B-FF04B08F3758}|dotnet-winforms\\dotnet-winforms.csproj|f:\\github\\dotnet-winforms\\dotnet-winforms\\emailform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A683E368-76D7-4ECB-913B-FF04B08F3758}|dotnet-winforms\\dotnet-winforms.csproj|solutionrelative:dotnet-winforms\\emailform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A683E368-76D7-4ECB-913B-FF04B08F3758}|dotnet-winforms\\dotnet-winforms.csproj|f:\\github\\dotnet-winforms\\dotnet-winforms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A683E368-76D7-4ECB-913B-FF04B08F3758}|dotnet-winforms\\dotnet-winforms.csproj|solutionrelative:dotnet-winforms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,28 +38,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PopupForm.cs",
-              "DocumentMoniker": "F:\\Github\\dotnet-winforms\\dotnet-winforms\\PopupForm.cs",
-              "RelativeDocumentMoniker": "dotnet-winforms\\PopupForm.cs",
-              "ToolTip": "F:\\Github\\dotnet-winforms\\dotnet-winforms\\PopupForm.cs",
-              "RelativeToolTip": "dotnet-winforms\\PopupForm.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Github\\dotnet-winforms\\dotnet-winforms\\Program.cs",
+              "RelativeDocumentMoniker": "dotnet-winforms\\Program.cs",
+              "ToolTip": "F:\\Github\\dotnet-winforms\\dotnet-winforms\\Program.cs",
+              "RelativeToolTip": "dotnet-winforms\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T07:26:46.312Z",
+              "WhenOpened": "2024-12-15T13:11:01.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmailForm.Designer.cs",
+              "DocumentMoniker": "F:\\Github\\dotnet-winforms\\dotnet-winforms\\EmailForm.Designer.cs",
+              "RelativeDocumentMoniker": "dotnet-winforms\\EmailForm.Designer.cs",
+              "ToolTip": "F:\\Github\\dotnet-winforms\\dotnet-winforms\\EmailForm.Designer.cs",
+              "RelativeToolTip": "dotnet-winforms\\EmailForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T13:10:10.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmailForm.cs",
+              "DocumentMoniker": "F:\\Github\\dotnet-winforms\\dotnet-winforms\\EmailForm.cs",
+              "RelativeDocumentMoniker": "dotnet-winforms\\EmailForm.cs",
+              "ToolTip": "F:\\Github\\dotnet-winforms\\dotnet-winforms\\EmailForm.cs",
+              "RelativeToolTip": "dotnet-winforms\\EmailForm.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAjwGEAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T13:09:57.923Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "F:\\Github\\dotnet-winforms\\dotnet-winforms\\Form1.cs",
-              "RelativeDocumentMoniker": "dotnet-winforms\\Form1.cs",
-              "ToolTip": "F:\\Github\\dotnet-winforms\\dotnet-winforms\\Form1.cs",
-              "RelativeToolTip": "dotnet-winforms\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAxAAAAAAAAAA==",
+              "Title": "EmailForm.cs [Design]",
+              "DocumentMoniker": "F:\\Github\\dotnet-winforms\\dotnet-winforms\\EmailForm.cs",
+              "RelativeDocumentMoniker": "dotnet-winforms\\EmailForm.cs",
+              "ToolTip": "F:\\Github\\dotnet-winforms\\dotnet-winforms\\EmailForm.cs [Design]",
+              "RelativeToolTip": "dotnet-winforms\\EmailForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T07:22:42.784Z"
+              "WhenOpened": "2024-12-15T13:09:28.264Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }

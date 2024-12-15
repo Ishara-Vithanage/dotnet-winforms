@@ -14,5 +14,4 @@ F:\Github\dotnet-winforms\dotnet-winforms\obj\Debug\net8.0-windows\refint\dotnet
 F:\Github\dotnet-winforms\dotnet-winforms\obj\Debug\net8.0-windows\dotnet-winforms.pdb
 F:\Github\dotnet-winforms\dotnet-winforms\obj\Debug\net8.0-windows\dotnet-winforms.genruntimeconfig.cache
 F:\Github\dotnet-winforms\dotnet-winforms\obj\Debug\net8.0-windows\ref\dotnet-winforms.dll
-F:\Github\dotnet-winforms\dotnet-winforms\obj\Debug\net8.0-windows\dotnet_winforms.Form1.resources
-F:\Github\dotnet-winforms\dotnet-winforms\obj\Debug\net8.0-windows\dotnet_winforms.PopupForm.resources
+F:\Github\dotnet-winforms\dotnet-winforms\obj\Debug\net8.0-windows\dotnet_winforms.EmailForm.resources

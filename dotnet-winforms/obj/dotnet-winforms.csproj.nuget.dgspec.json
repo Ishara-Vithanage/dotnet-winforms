@@ -49,6 +49,16 @@
       "frameworks": {
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
+          "dependencies": {
+            "Google.Apis.Auth": {
+              "target": "Package",
+              "version": "[1.68.0, )"
+            },
+            "Google.Apis.PeopleService.v1": {
+              "target": "Package",
+              "version": "[1.68.0.3359, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
